@@ -1,0 +1,229 @@
+[{
+  "_id": "60fa8738ddf98b7abc26ee43",
+  "name": {
+    "fr": "Tranche d'age",
+    "en": "Age range"
+  },
+  "values": [
+    {
+      "_id": "60fa8738ddf98b7abc26ee44",
+      "fr": "- 26",
+      "en": "- 26"
+    },
+    {
+      "_id": "60fa8738ddf98b7abc26ee45",
+      "fr": "26 - 30",
+      "en": "26 - 30"
+    },
+    {
+      "_id": "60fa8738ddf98b7abc26ee46",
+      "fr": "31 - 35",
+      "en": "31 - 35"
+    },
+    {
+      "_id": "60fa8738ddf98b7abc26ee47",
+      "fr": "36 - 40",
+      "en": "36 - 40"
+    },
+    {
+      "_id": "60fa8738ddf98b7abc26ee48",
+      "fr": "+ 40",
+      "en": "+ 40"
+    }
+  ]
+},{
+  "_id": "60fa8738ddf98b7abc26ee49",
+  "name": {
+    "fr": "Tranche de salaire",
+    "en": "Salary bracket"
+  },
+  "values": [
+    {
+      "_id": "60fa8738ddf98b7abc26ee4a",
+      "fr": "Moins de 29k€",
+      "en": "Less than 29k€"
+    },
+    {
+      "_id": "60fa8738ddf98b7abc26ee4b",
+      "fr": "[29k€-33k€[",
+      "en": "[29k€-33k€["
+    },
+    {
+      "_id": "60fa8738ddf98b7abc26ee4c",
+      "fr": "[33k€-38k€[",
+      "en": "[33k€-38k€["
+    },
+    {
+      "_id": "60fa8738ddf98b7abc26ee4d",
+      "fr": "[38k€-45k€[",
+      "en": "[38k€-45k€["
+    },
+    {
+      "_id": "60fa8738ddf98b7abc26ee4e",
+      "fr": "[45k€-60k€[",
+      "en": "[45k€-60k€["
+    },
+    {
+      "_id": "60fa8738ddf98b7abc26ee4f",
+      "fr": "[60k€ et +[",
+      "en": "[60k€ et +["
+    }
+  ]
+},{
+  "_id": "60fa8738ddf98b7abc26ee50",
+  "name": {
+    "fr": "Zone geographique",
+    "en": "Location"
+  },
+  "values": [
+    {
+      "_id": "60fa8738ddf98b7abc26ee51",
+      "fr": "France",
+      "en": "France"
+    },
+    {
+      "_id": "60fa8738ddf98b7abc26ee52",
+      "fr": "USA",
+      "en": "USA"
+    },
+    {
+      "_id": "60fa8738ddf98b7abc26ee53",
+      "fr": "Inde",
+      "en": "India"
+    },
+    {
+      "_id": "60fa8738ddf98b7abc26ee54",
+      "fr": "Espagne",
+      "en": "Spain"
+    },
+    {
+      "_id": "60fa8738ddf98b7abc26ee55",
+      "fr": "Chine",
+      "en": "China"
+    },
+    {
+      "_id": "60fa8738ddf98b7abc26ee56",
+      "fr": "Norvège",
+      "en": "Norway"
+    },
+    {
+      "_id": "60fa8738ddf98b7abc26ee57",
+      "fr": "Croatie",
+      "en": "Croatia"
+    },
+    {
+      "_id": "60fa8738ddf98b7abc26ee58",
+      "fr": "Belgique",
+      "en": "Belgium"
+    },
+    {
+      "_id": "60fa8738ddf98b7abc26ee59",
+      "fr": "Hongrie",
+      "en": "Hungary"
+    },
+    {
+      "_id": "60fa8738ddf98b7abc26ee5a",
+      "fr": "Turquie",
+      "en": "Turkey"
+    },
+    {
+      "_id": "60fa8738ddf98b7abc26ee5b",
+      "fr": "Royaume-Uni",
+      "en": "UK"
+    },
+    {
+      "_id": "60fa8738ddf98b7abc26ee5c",
+      "fr": "Russie",
+      "en": "Russia"
+    },
+    {
+      "_id": "60fa8738ddf98b7abc26ee5d",
+      "fr": "Singapour",
+      "en": "Singapore"
+    }
+  ]
+},{
+  "_id": "60fa8738ddf98b7abc26ee5e",
+  "name": {
+    "fr": "Type de contrat",
+    "en": "Contract type"
+  },
+  "values": [
+    {
+      "_id": "60fa8738ddf98b7abc26ee5f",
+      "fr": "Stage",
+      "en": "Intern"
+    },
+    {
+      "_id": "60fa8738ddf98b7abc26ee60",
+      "fr": "Apprentissage",
+      "en": "Apprentice"
+    },
+    {
+      "_id": "60fa8738ddf98b7abc26ee61",
+      "fr": "CDI",
+      "en": "Permanent contrat"
+    },
+    {
+      "_id": "60fa8738ddf98b7abc26ee62",
+      "fr": "CDD",
+      "en": "Fixed-term contract"
+    }
+  ]
+},{
+  "_id": "60fa8738ddf98b7abc26ee63",
+  "name": {
+    "fr": "Departement",
+    "en": "Department"
+  },
+  "values": [
+    {
+      "_id": "60fa8738ddf98b7abc26ee64",
+      "fr": "Technique",
+      "en": "Engineering"
+    },
+    {
+      "_id": "60fa8738ddf98b7abc26ee65",
+      "fr": "Commercial",
+      "en": "Sales"
+    },
+    {
+      "_id": "60fa8738ddf98b7abc26ee66",
+      "fr": "Operations",
+      "en": "Operations"
+    },
+    {
+      "_id": "60fa8738ddf98b7abc26ee67",
+      "fr": "Fonctions support",
+      "en": "Cross-fonctionnal team"
+    }
+  ]
+},{
+  "_id": "60fa8738ddf98b7abc26ee68",
+  "name": {
+    "fr": "Ancienneté",
+    "en": "Seniority"
+  },
+  "values": [
+    {
+      "_id": "60fa8738ddf98b7abc26ee69",
+      "fr": "-1 an",
+      "en": "-1 year"
+    },
+    {
+      "_id": "60fa8738ddf98b7abc26ee6a",
+      "fr": "1 - 3 ans",
+      "en": "1 - 3 years"
+    },
+    {
+      "_id": "60fa8738ddf98b7abc26ee6b",
+      "fr": "4 - 5 ans",
+      "en": "4 - 5 years"
+    },
+    {
+      "_id": "60fa8738ddf98b7abc26ee6c",
+      "fr": "+ 5 ans",
+      "en": "+ 5 years"
+    }
+  ]
+}]
